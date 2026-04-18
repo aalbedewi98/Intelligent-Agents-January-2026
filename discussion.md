@@ -2,68 +2,68 @@
 
 ## 1. Overview
 
-Participation in the discussion forums helped me develop a deeper understanding of intelligent agent systems and how they are applied in real-world scenarios. The discussions encouraged critical thinking and allowed me to compare different approaches to system design.
+Participation in the discussion forums throughout the module helped me develop a deeper understanding of intelligent agent systems and their real-world applications. The discussions encouraged critical thinking and allowed me to explore different approaches to system design.
 
 ---
 
 ## 2. Key Learning: Agent Architectures
 
-A key topic discussed was the difference between traditional rule-based systems and intelligent agent architectures, particularly the Belief–Desire–Intention (BDI) model.
+One of the main topics discussed was the difference between traditional rule-based systems and intelligent agent architectures, particularly the Belief–Desire–Intention (BDI) model.
 
 From these discussions, I learned that:
 - Rule-based systems follow fixed instructions  
-- Agent-based systems use reasoning and decision-making  
-- BDI models introduce goals and intentions into system behaviour  
+- Agent-based systems are autonomous and goal-oriented  
+- The BDI model introduces reasoning through beliefs, desires, and intentions  
 
-This understanding helped me see how intelligent agents are more flexible and realistic compared to traditional systems.
+This helped me understand how intelligent agents are more flexible and capable of decision-making compared to traditional systems.
 
 ---
 
 ## 3. Impact on My Project
 
-The discussion directly influenced the design of our project. The BDI model was used to structure the system:
+The knowledge gained from the discussions directly influenced the design of the project. The BDI model was used to structure the system:
 
 - **Beliefs:** knowledge about academic data  
 - **Desires:** retrieving relevant research papers  
-- **Intentions:** executing the processing steps  
+- **Intentions:** executing the processing workflow  
 
-This made the system more organised and aligned with intelligent agent principles.
+This improved the clarity and organisation of the system design and ensured that it followed intelligent agent principles.
 
 ---
 
 ## 4. Real-World Application
 
-Forum discussions also highlighted how intelligent agents are used in real-world data processing systems.
+The discussions also highlighted how intelligent agents are used in real-world applications, particularly in handling large amounts of data.
 
-This reinforced the importance of our project, as it:
-- Automates academic research  
-- Organises large amounts of data  
-- Improves efficiency  
+This reinforced the importance of the project, as it:
+- Automates academic research tasks  
+- Improves efficiency in data retrieval  
+- Organises information for easier analysis  
 
-It also helped me think about how similar systems can be used in other domains.
+It also helped me understand how similar systems can be applied in other domains.
 
 ---
 
-## 5. Critical Thinking and Limitations
+## 5. Critical Evaluation
 
-The discussions raised important limitations of intelligent systems, including:
-- Scalability issues  
-- Data accuracy challenges  
+The forums raised important limitations of intelligent systems, including:
+- Scalability challenges  
+- Data accuracy issues  
 - Limited adaptability  
 
-This made me critically evaluate our system, especially:
-- The use of simulated data  
-- The lack of real-world integration  
+This encouraged me to critically evaluate the project, particularly:
+- The use of simulated data instead of real-world sources  
+- The simplicity of the ranking algorithm  
 
-It highlighted the need for more advanced solutions in future development.
+This reflection highlighted areas for future improvement.
 
 ---
 
 ## 6. Skills Development
 
-Participating in the forums improved my:
+Participating in the discussions improved my:
 - Communication skills  
-- Ability to explain technical ideas  
+- Ability to explain technical concepts  
 - Critical thinking  
 - Ability to consider different perspectives  
 
