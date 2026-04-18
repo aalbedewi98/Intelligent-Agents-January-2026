@@ -96,14 +96,14 @@ This output demonstrates that the system successfully processes and ranks academ
 ---
 
 ### Code Implementation
-![Code](../evidence/code.png)
+![Code](../evidence/code.ipynb)
 
 The system is implemented using modular classes, showing a structured and maintainable design.
 
 ---
 
 ### Data Storage
-![CSV](../evidence/csv.png)
+![CSV](../evidence/results.csv)
 
 The processed results are stored in a CSV file, allowing users to access and analyse the data efficiently.
 
