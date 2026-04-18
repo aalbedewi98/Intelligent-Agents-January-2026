@@ -15,7 +15,7 @@ From these discussions, I learned that:
 - Agent-based systems are autonomous and goal-oriented  
 - The BDI model introduces reasoning through beliefs, desires, and intentions (Bratman, 1987; Georgeff et al., 1999)  
 
-This helped me understand how intelligent agents are more flexible and capable of decision-making compared to traditional systems.
+This helped me understand how intelligent agents are more flexible and capable of decision-making compared to traditional systems, particularly in dynamic environments where adaptability is required.
 
 ---
 
@@ -27,7 +27,7 @@ The knowledge gained from the discussions directly influenced the design of the 
 - **Desires:** retrieving relevant research papers  
 - **Intentions:** executing the processing workflow  
 
-This improved the clarity and organisation of the system design and ensured that it followed intelligent agent principles (Russell and Norvig, 2021).
+This improved the clarity and organisation of the system design and ensured that it followed established intelligent agent principles (Russell and Norvig, 2021). It also allowed the system to be more structured and goal-oriented compared to a simple rule-based approach.
 
 ---
 
@@ -40,7 +40,7 @@ This reinforced the importance of the project, as it:
 - Improves efficiency in data retrieval  
 - Organises information for easier analysis  
 
-It also helped me understand how similar systems can be applied in other domains (Russell and Norvig, 2021).
+It also helped me understand how similar agent-based systems can be applied in other domains such as finance, cybersecurity, and large-scale data processing (Russell and Norvig, 2021).
 
 ---
 
@@ -55,7 +55,7 @@ This encouraged me to critically evaluate the project, particularly:
 - The use of simulated data instead of real-world sources  
 - The simplicity of the ranking algorithm  
 
-This reflection highlighted areas for future improvement and aligns with known limitations in intelligent system design (Russell and Norvig, 2021).
+While the system demonstrates key intelligent agent concepts, these limitations highlight the gap between conceptual design and real-world implementation. This reflection emphasised the importance of designing systems that are adaptable, scalable, and capable of handling dynamic data sources (Russell and Norvig, 2021).
 
 ---
 
@@ -63,12 +63,14 @@ This reflection highlighted areas for future improvement and aligns with known l
 
 Participating in the discussions improved my:
 - Communication skills  
-- Ability to explain technical concepts  
-- Critical thinking  
-- Ability to consider different perspectives  
+- Ability to explain technical concepts clearly  
+- Critical thinking and analytical skills  
+- Ability to evaluate different perspectives and approaches  
+
+These skills were essential in supporting both the team project and the individual system implementation.
 
 ---
 
 ## 7. Summary
 
-Overall, the discussion forums enhanced my understanding of intelligent agents, supported critical evaluation of system design, and improved my communication and teamwork skills. This contributes to Learning Outcomes 1 and 4.
+Overall, the discussion forums enhanced my understanding of intelligent agents, supported critical evaluation of system design, and improved my communication and teamwork skills. This contributes directly to Learning Outcomes 1 and 4.
