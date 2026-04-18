@@ -1,15 +1,74 @@
 # Collaborative Discussion Forum Summary
 
-Throughout the Intelligent Agents module, participation in collaborative discussion forums played a significant role in developing my understanding of agent-based systems and their real-world applications. These discussions allowed me to critically analyse different approaches to intelligent system design and reflect on their advantages and limitations.
+## 1. Overview
 
-One of the key topics explored in the forums was the comparison between traditional rule-based systems and intelligent agent architectures such as the Belief-Desire-Intention (BDI) model. Through these discussions, I gained a deeper understanding of how agent-based systems differ by incorporating decision-making, autonomy, and goal-oriented behaviour rather than simply executing predefined instructions.
+Participation in the discussion forums helped me develop a deeper understanding of intelligent agent systems and how they are applied in real-world scenarios. The discussions encouraged critical thinking and allowed me to compare different approaches to system design.
 
-This understanding directly influenced the design of our project, where the BDI model was applied to structure the system. The agent’s beliefs represent knowledge about academic data, desires define the goal of retrieving relevant research papers, and intentions guide the execution of the processing pipeline. This approach improved the clarity and structure of the system design.
+---
 
-In addition, discussions around real-world applications of intelligent agents highlighted their importance in managing large-scale data processing tasks. This reinforced the relevance of our Academic Research Intelligent Agent System, as it addresses the challenge of efficiently retrieving and organising academic information. By reviewing the ideas shared by peers, I was able to evaluate different approaches to data processing and ranking, which contributed to improving the design of the processing module.
+## 2. Key Learning: Agent Architectures
 
-The forums also raised important considerations regarding the limitations of intelligent systems, including scalability, data accuracy, and adaptability. These discussions encouraged me to critically evaluate our system, particularly the use of simulated data instead of real-world data sources. This highlighted the importance of designing systems that can adapt to dynamic environments and integrate external data sources.
+A key topic discussed was the difference between traditional rule-based systems and intelligent agent architectures, particularly the Belief–Desire–Intention (BDI) model.
 
-Furthermore, participating in the forums improved my communication skills by requiring me to express technical ideas clearly and respond to feedback from others. Engaging with different perspectives also enhanced my ability to think critically and consider alternative solutions when designing the system.
+From these discussions, I learned that:
+- Rule-based systems follow fixed instructions  
+- Agent-based systems use reasoning and decision-making  
+- BDI models introduce goals and intentions into system behaviour  
 
-Overall, the collaborative discussion forums contributed significantly to my learning by enhancing my understanding of intelligent agent concepts, supporting critical evaluation, and improving my communication and teamwork skills.
+This understanding helped me see how intelligent agents are more flexible and realistic compared to traditional systems.
+
+---
+
+## 3. Impact on My Project
+
+The discussion directly influenced the design of our project. The BDI model was used to structure the system:
+
+- **Beliefs:** knowledge about academic data  
+- **Desires:** retrieving relevant research papers  
+- **Intentions:** executing the processing steps  
+
+This made the system more organised and aligned with intelligent agent principles.
+
+---
+
+## 4. Real-World Application
+
+Forum discussions also highlighted how intelligent agents are used in real-world data processing systems.
+
+This reinforced the importance of our project, as it:
+- Automates academic research  
+- Organises large amounts of data  
+- Improves efficiency  
+
+It also helped me think about how similar systems can be used in other domains.
+
+---
+
+## 5. Critical Thinking and Limitations
+
+The discussions raised important limitations of intelligent systems, including:
+- Scalability issues  
+- Data accuracy challenges  
+- Limited adaptability  
+
+This made me critically evaluate our system, especially:
+- The use of simulated data  
+- The lack of real-world integration  
+
+It highlighted the need for more advanced solutions in future development.
+
+---
+
+## 6. Skills Development
+
+Participating in the forums improved my:
+- Communication skills  
+- Ability to explain technical ideas  
+- Critical thinking  
+- Ability to consider different perspectives  
+
+---
+
+## 7. Summary
+
+Overall, the discussion forums enhanced my understanding of intelligent agents, supported critical evaluation of system design, and improved my communication and teamwork skills. This contributes to Learning Outcomes 1 and 4.
