@@ -13,7 +13,7 @@ One of the main topics discussed was the difference between traditional rule-bas
 From these discussions, I learned that:
 - Rule-based systems follow fixed instructions  
 - Agent-based systems are autonomous and goal-oriented  
-- The BDI model introduces reasoning through beliefs, desires, and intentions  
+- The BDI model introduces reasoning through beliefs, desires, and intentions (Bratman, 1987; Georgeff et al., 1999)  
 
 This helped me understand how intelligent agents are more flexible and capable of decision-making compared to traditional systems.
 
@@ -27,7 +27,7 @@ The knowledge gained from the discussions directly influenced the design of the 
 - **Desires:** retrieving relevant research papers  
 - **Intentions:** executing the processing workflow  
 
-This improved the clarity and organisation of the system design and ensured that it followed intelligent agent principles.
+This improved the clarity and organisation of the system design and ensured that it followed intelligent agent principles (Russell and Norvig, 2021).
 
 ---
 
@@ -40,7 +40,7 @@ This reinforced the importance of the project, as it:
 - Improves efficiency in data retrieval  
 - Organises information for easier analysis  
 
-It also helped me understand how similar systems can be applied in other domains.
+It also helped me understand how similar systems can be applied in other domains (Russell and Norvig, 2021).
 
 ---
 
@@ -55,7 +55,7 @@ This encouraged me to critically evaluate the project, particularly:
 - The use of simulated data instead of real-world sources  
 - The simplicity of the ranking algorithm  
 
-This reflection highlighted areas for future improvement.
+This reflection highlighted areas for future improvement and aligns with known limitations in intelligent system design (Russell and Norvig, 2021).
 
 ---
 
